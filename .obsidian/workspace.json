@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "d789f3c90e8bc05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7dcb4ef9121294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "866fdf2838ba9a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55f04986114361e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8ee22b19df5fa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "815d8ff21487fabc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "574215b096a69281",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd18d68dbe89043",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6145d96ed912291",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2b24ad5d6968dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbaf89ca78b03036",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf5efd0cc601004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6faf6869d0abee3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "630a35b50983f4f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa85f1c297af8e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "866fdf2838ba9a91",
+  "lastOpenFiles": [
+    "创业/概念.md",
+    "创业/项目.md",
+    "X - 进度.md",
+    "Company/RayCloud/2023-第三季度总结.md",
+    "README.md",
+    "Spring Cloud/1 - 概念.md",
+    "Spring Cloud/2 - 服务注册与发现.md",
+    "Spring Cloud/3 - 负载均衡.md",
+    "Maven/1 - 介绍.md",
+    "APP 开发/开发语言.md",
+    "每日一问/如何用 Canvas 截取图片.md",
+    "每日一问/Git 修复多个环境问题.md",
+    "Vim/常用操作.md",
+    "Git/Hooks.md",
+    "Company/RayCloud/发布回滚分支的必要性.md",
+    "AI/绘画/相关资源.md",
+    "专业名词/LDAP.md",
+    "前端/PromiseA+.md",
+    "前端/性能优化.md",
+    "前端/性能工具.md",
+    "面试题/1. React 倒计时.md",
+    "面试题/2. 构建产物的优化思路.md",
+    "工具速记/开发收集.md",
+    "工具速记/个人简介.md",
+    "工具速记/Favicon.md",
+    "未命名.md",
+    "Npm",
+    "计算机知识",
+    "HTTP",
+    "Jobs",
+    "Spring Cloud",
+    "面试题",
+    "创业",
+    "APP 开发",
+    "Pasted image 20240110143030.png",
+    "AI/绘画",
+    "AI",
+    "未命名.canvas",
+    "Pasted image 20230523193958.png",
+    "Pasted image 20230523193954.png",
+    "Pasted image 20230303204641.png",
+    "Pasted image 20230303204559.png",
+    "Pasted image 20230303204341.png"
+  ]
+}
