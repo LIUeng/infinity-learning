@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "设计模式/1 - Why.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "设计模式/1 - Why.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "设计模式/1 - Why.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "设计模式/1 - Why.md"
               }
             }
           }
@@ -156,11 +156,24 @@
   },
   "active": "866fdf2838ba9a91",
   "lastOpenFiles": [
+    "HTTP/?? 地址.md",
+    "HTTP/请求方法.md",
+    "HTTP/状态码.md",
+    "设计模式/1 - Why.md",
+    "面试题/5. React 合成事件.md",
+    "设计模式",
+    "计算机知识/CPU.md",
+    "专业名词/RTT.md",
+    "面试题/4. 多线程.md",
+    "面试题/3. Node 高并发.md",
+    "面试题/1. React 倒计时.md",
+    "面试题/2. 构建产物的优化思路.md",
+    "计算机知识/进程&线程.md",
+    "README.md",
     "创业/概念.md",
     "创业/项目.md",
     "X - 进度.md",
     "Company/RayCloud/2023-第三季度总结.md",
-    "README.md",
     "Spring Cloud/1 - 概念.md",
     "Spring Cloud/2 - 服务注册与发现.md",
     "Spring Cloud/3 - 负载均衡.md",
@@ -170,18 +183,6 @@
     "每日一问/Git 修复多个环境问题.md",
     "Vim/常用操作.md",
     "Git/Hooks.md",
-    "Company/RayCloud/发布回滚分支的必要性.md",
-    "AI/绘画/相关资源.md",
-    "专业名词/LDAP.md",
-    "前端/PromiseA+.md",
-    "前端/性能优化.md",
-    "前端/性能工具.md",
-    "面试题/1. React 倒计时.md",
-    "面试题/2. 构建产物的优化思路.md",
-    "工具速记/开发收集.md",
-    "工具速记/个人简介.md",
-    "工具速记/Favicon.md",
-    "未命名.md",
     "Npm",
     "计算机知识",
     "HTTP",
@@ -192,7 +193,6 @@
     "APP 开发",
     "Pasted image 20240110143030.png",
     "AI/绘画",
-    "AI",
     "未命名.canvas",
     "Pasted image 20230523193958.png",
     "Pasted image 20230523193954.png",
