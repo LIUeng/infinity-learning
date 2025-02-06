@@ -1,3 +1,15 @@
+## 生成 SSH 凭证
+
+```shell
+# ed_25519
+ssh-keygen -t ed25519 -C "注释"
+# 复制
+pbcopy < ~/.ssh/?.pub
+# 添加 host
+ssh-add --apple-use-keychain ~/.ssh/?_ed25519
+# 测试
+ssh -T git@gitee.com
+```
 ## 问题
 
 使用以下解决方案不灵活，每次需要手动切换
@@ -60,4 +72,18 @@ sshCommand = ssh -i ~/.ssh/work
 
 ```shell
 git config --list | grep user
+```
+
+## FAQ
+
+> `通过 git+ssh 进行 npm install 的时候注意区分使用哪个 git config 配置`
+
+可以使用环境变量形式安装 GIT_SSH_COMMAND='ssh -i ~/.ssh/?.rsa' npm install
+
+> ssh 不起作用时，需要重新添加配置
+
+```shell
+eval "$(ssh-agent -s)"
+
+ssh-add 重新添加秘钥
 ```

@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6c7dcb4ef9121294",
+        "id": "5f5a8b21aee53a03",
         "type": "tabs",
         "children": [
           {
-            "id": "866fdf2838ba9a91",
+            "id": "90e79f4c329d8fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/1 - Why.md",
+                "file": "Vim/常用操作.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "常用操作"
+            }
+          },
+          {
+            "id": "7a9ef8c898631752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Github"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -70,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -93,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/1 - Why.md",
+                "file": "MySQL/1 - 相关命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "1 - 相关命令 的反向链接列表"
             }
           },
           {
@@ -110,10 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/1 - Why.md",
+                "file": "MySQL/1 - 相关命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "1 - 相关命令 的出链列表"
             }
           },
           {
@@ -124,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/1 - Why.md"
-              }
+                "file": "MySQL/1 - 相关命令.md"
+              },
+              "icon": "lucide-list",
+              "title": "1 - 相关命令 的大纲"
             }
           }
         ]
@@ -154,35 +188,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "866fdf2838ba9a91",
+  "active": "7a9ef8c898631752",
   "lastOpenFiles": [
-    "HTTP/?? 地址.md",
-    "HTTP/请求方法.md",
-    "HTTP/状态码.md",
-    "设计模式/1 - Why.md",
-    "面试题/5. React 合成事件.md",
-    "设计模式",
-    "计算机知识/CPU.md",
-    "专业名词/RTT.md",
-    "面试题/4. 多线程.md",
-    "面试题/3. Node 高并发.md",
-    "面试题/1. React 倒计时.md",
-    "面试题/2. 构建产物的优化思路.md",
-    "计算机知识/进程&线程.md",
-    "README.md",
-    "创业/概念.md",
-    "创业/项目.md",
-    "X - 进度.md",
-    "Company/RayCloud/2023-第三季度总结.md",
-    "Spring Cloud/1 - 概念.md",
-    "Spring Cloud/2 - 服务注册与发现.md",
-    "Spring Cloud/3 - 负载均衡.md",
-    "Maven/1 - 介绍.md",
-    "APP 开发/开发语言.md",
-    "每日一问/如何用 Canvas 截取图片.md",
-    "每日一问/Git 修复多个环境问题.md",
-    "Vim/常用操作.md",
+    "Git/一台 Mac 使用不同账号.md",
+    "Git/Github.md",
+    "MySQL/10 - 问题.md",
+    "MySQL/1 - 相关命令.md",
+    "MySQL/2 - 内置函数.md",
+    "MySQL/4 - 约束.md",
+    "MySQL/8 - 引擎.md",
+    "MySQL/7 - 视图.md",
+    "MySQL/6 - 事务.md",
+    "MySQL/5 - 索引.md",
+    "MySQL/3 - 查询增强.md",
+    "MySQL/9 - 用户管理.md",
     "Git/Hooks.md",
+    "创业/项目.md",
+    "创业/概念.md",
+    "X - 进度.md",
+    "Npm/Verdaccio.md",
+    "Npm/2FA Authentication.md",
+    "Java 基础/2 - 面向对象 OOP.md",
+    "Java 基础/10 - 引用.md",
+    "设计模式/3 - SOLID.md",
+    "设计模式/2 - 类型.md",
+    "设计模式/1 - Why.md",
+    "Docker/2 - 基本概念.md",
+    "Docker/7 - Kubernetes.md",
+    "Docker/6 - Compose.md",
+    "设计模式",
     "Npm",
     "计算机知识",
     "HTTP",
