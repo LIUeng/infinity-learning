@@ -1,7 +1,6 @@
-## Pip
+## 管理方式
 
-> Pip 搭配 requirements.txt 依赖管理当前项目
-## Poetry
+> myproject.toml
 
 [Poetry](https://python-poetry.org/docs/)
 
@@ -19,3 +18,6 @@ poetry install
 # 安装某个依赖
 poetry add 包名==版本号
 ```
+## 构建项目
+
+[poetry 构建项目](./6 - 项目构建)
